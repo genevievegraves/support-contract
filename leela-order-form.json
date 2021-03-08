@@ -1,0 +1,18 @@
+{
+    "Software Name": "burst",
+    "Versions": "0.2.X",
+    "Service Limits": "up to two people authorized to contact support at any given time",
+    "Chanels": "support@burstable.ai and existing slack channel",
+    "Dedicated": "No",
+    "SLA": "",
+    "Credit Schedule": "",
+    "Business Hours": "",
+    "Holidays": "",
+    "Severity Levels": "",
+    "License Fees": "$400 per month",
+    "Billing": "monthly",
+    "Flexible Pricing": "$200 per additional person authorized to contact support per month",
+    "Payment Method": "Invoice",
+    "Initial Term": "one year",
+    "Automatic Renewal": "annually, unless either side gives notice at least 30 calendar days before it would otherwise renew"
+}
