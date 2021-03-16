@@ -14,19 +14,19 @@
 
             \\  A version of the <Software> is ""Generally Available"" if <Developer> offers it to the public for use in production systems.  Versions that <Developer> designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not <Generally Available>.
 
-        \\  ""Service Limits"" means any limits on use of <Developer>'s support services specified on the <Order Form>, such as the number of <Customer Personnel> who may contact <Developer> for support, or the maximum number of <Support Requests> <Developer> will respond to per month.
+        \\  ""Service Limits"" means any limits on use of <Developer>'s support services specified on the <Order Form>, such as the number of <Customer Personnel> who may contact <Developer> for support, or the maximum number of support requests <Developer> will respond to per month.
 
     \Developer's Obligations\
 
-        \Respond to Support Requests\  <Developer> agrees to respond to ""Support Requests"" from <Customer Personnel> about <Covered Versions> of the <Software>.
+        \Respond to Support Requests\  <Developer> agrees to respond to support requests from <Customer Personnel> about <Covered Versions> of the <Software>.
 
-        \Support Channels\  If the <Order Form> specifies support channels, <Developer> only agrees to respond to <Support Requests> sent via those channels.  If the <Order Form> does not specify support channels, <Developer> only agrees to respond to <Support Requests> via e-mail, and to give <Notice> of an e-mail address for <Support Requests> on entering into this agreement.
+        \Support Channels\  If the <Order Form> specifies support channels, <Developer> only agrees to respond to support requests sent via those channels.  If the <Order Form> does not specify support channels, <Developer> only agrees to respond to support requests via e-mail, and to give <Notice> of an e-mail address for support requests on entering into this agreement.
 
-        \Diagnosis and Resolution\  <Developer> agrees to diagnose and resolve <Support Requests> related to installing <Covered Versions> of the <Software>, configuring standard features of <Covered Versions> of the <Software> per its documentation, and software errors encountered when using <Covered Versions> of the <Software>.
+        \Diagnosis and Resolution\  <Developer> agrees to diagnose and resolve support requests related to installing <Covered Versions> of the <Software>, configuring standard features of <Covered Versions> of the <Software> per its documentation, and software errors encountered when using <Covered Versions> of the <Software>.
 
-        \Technical Support Escalation\  If <Developer> is a company of more than one person, then <Developer> agrees to promptly escalate <Support Requests> that initially responding support personnel cannot resolve independently to a <Developer> engineer responsible for the <Software>.  Where appropriate, initially responding support personnel may connect <Customer Personnel> to engineers directly.
+        \Technical Support Escalation\  If <Developer> is a company of more than one person, then <Developer> agrees to promptly escalate support requests that initially responding support personnel cannot resolve independently to a <Developer> engineer responsible for the <Software>.  Where appropriate, initially responding support personnel may connect <Customer Personnel> to engineers directly.
 
-        \Dedicated Support Personnel\  If <Developer> is a company of more than one person and the <Order Form> specifies dedicated support personnel, then <Developer> agrees to assign a limited number of specific support personnel to respond to <Customer>'s <Support Requests>, in order to maximize the chance that <Customer Personnel> will receive support from personnel familiar with <Customer>'s use cases and past <Support Requests>.
+        \Dedicated Support Personnel\  If <Developer> is a company of more than one person and the <Order Form> specifies dedicated support personnel, then <Developer> agrees to assign a limited number of specific support personnel to respond to <Customer>'s support requests, in order to maximize the chance that <Customer Personnel> will receive support from personnel familiar with <Customer>'s use cases and past support requests.
 
         \Service-Level Agreement\  If the <Order Form> specifies a service-level agreement:
 
@@ -34,15 +34,15 @@
 
             \Refund Prepaid Fees\  If <Developer> fails to meet {Meet or Exceed Service Levels} for three months in a row, and <Customer> ends this agreement at the end of those months, citing poor support responsiveness, <Developer> agrees to refund any <Prepaid Fees>.
 
-            \Business Hours\  If the <Order Form> specifies business hours, <Developer> agrees to respond to <Support Requests> during those hours.  If the <Order Form> does not specify business hours, <Developer> agrees to respond to <Support Requests> during regular business hours in the time zone of <Developer's Address>.
+            \Business Hours\  If the <Order Form> specifies business hours, <Developer> agrees to respond to support requests during those hours.  If the <Order Form> does not specify business hours, <Developer> agrees to respond to support requests during regular business hours in the time zone of <Developer's Address>.
 
-            \Holidays\  If the <Order Form> specifies holidays, <Developer> will not respond to <Support Requests> on those holidays.  If the <Order Form> does not specify holidays, <Developer> will not respond to <Support Requests> on days when commercial banks in the city nearest <Developer's Address> typically stay closed.
+            \Holidays\  If the <Order Form> specifies holidays, <Developer> will not respond to support requests on those holidays.  If the <Order Form> does not specify holidays, <Developer> will not respond to support requests on days when commercial banks in the city nearest <Developer's Address> typically stay closed.
 
-            \Vacation and Sick Days\  If <Developer> is an individual or a company of one person, then <Developer> will not respond to <Support Requests> on days <Developer> takes off as vacation or sick days.  <Developer> agrees to give <Notice> of sick days, and advance <Notice> of vacation days.  <Developer> may take as many sick days and vacation days as <Customer>'s human resources policies allow full-time employees to take, or if <Customer> does not have such a policy, a reasonable number of sick days and vacation days.
+            \Vacation and Sick Days\  If <Developer> is an individual or a company of one person, then <Developer> will not respond to support requests on days <Developer> takes off as vacation or sick days.  <Developer> agrees to give <Notice> of sick days, and advance <Notice> of vacation days.  <Developer> may take as many sick days and vacation days as <Customer>'s human resources policies allow full-time employees to take, or if <Customer> does not have such a policy, a reasonable number of sick days and vacation days.
 
-            \Support Request Severity\  Unless the <Order Form> defines different terms for the severity of <Support Requests>:
+            \Support Request Severity\  Unless the <Order Form> defines different terms for the severity of support requests:
 
-                \\  ""Critical Support Requests"" are <Support Requests> that report that:
+                \\  "Critical Support Requests" are support requests that report that:
 
                     \\  <Customer> cannot install the <Software> by following the directions in its documentation.
 
@@ -52,7 +52,7 @@
 
                     \\  The <Software> contains security vulnerabilities.
 
-                \\  All other <Support Requests> are ""Regular Support Requests"".
+                \\  All other support requests are "Regular Support Requests".
 
             \Credits\  If the <Order Form> specifies a credit schedule:
 
@@ -68,7 +68,7 @@
 
         \Abide by Service Limits\  <Customer> agrees to abide by any <Service Limits>.
 
-        \Provide Information Promptly\  <Customer> agrees to provide <Developer> support personnel the information they need to respond to <Support Requests> promptly.
+        \Provide Information Promptly\  <Customer> agrees to provide <Developer> support personnel the information they need to respond to support requests promptly.
 
     \Intellectual Property\  This agreement does not license or assign any intellectual property right.
 
@@ -98,7 +98,7 @@
 
     \Term and Renewal\
 
-        \Initial Term\  This agreement will continue for the initial term specified on the <Order Form>.  If the <Order> does not specify an initial term, this agreement will continue for one year.
+        \Initial Term\  This agreement will continue for the initial term specified on the <Order Form>.  If the <Order Form> does not specify an initial term, this agreement will continue for one year.
 
         \Renewal\  If the <Order Form> specifies automatic renewal, then this agreement will renew automatically for additional periods, each as long as the initial term.
 
@@ -122,7 +122,7 @@
 
         \Notice Process\  Both sides agree that to give <Notice> under this agreement, the side giving <Notice> must send by e-mail to the address the recipient given with its signature, or to a different address given later for <Notice> going forward.  If either side finds that e-mail can't be delivered to the e-mail address given, it may give <Notice> by registered mail to the address on file for the recipient with the state under whose laws it is organized.
 
-        \Change Process\  <Customer> and <Developer> agree to make changes allowed under this agreement by <Notice>.
+        \Change Process\  <Customer> and <Developer> agree to make changes allowed under this agreement by <Permission>.
 
     \General Contract Terms\
 
@@ -159,4 +159,5 @@
         \\  ""Prepaid Fees"" means fees <Customer> prepaid under this agreement for time remaining in the term of this agreement.
 
         \\  ""Developer's Address"" means the address that <Developer> gives along with its signature to the <Order Form>.
+
 

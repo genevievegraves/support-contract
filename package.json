@@ -19,6 +19,7 @@
     "build:orderform:markdown": "commonform render -f markdown --title 'Software Support Order Form' order-form.cform > order-form.md",
     "build:orderform:html": "commonform render -f html5 --title 'Software Support Order Form' --ordered-lists order-form.cform > order-form.html",
     "build:orderform:docx": "commonform render -f docx --title 'Software Support Order Form' --number outline --left-align-title --indent-margins --styles styles.json --signatures signatures.json order-form.cform > order-form.docx",
-    "build:example:docx": "commonform render -f docx --title 'Software Support Order Form' --number outline --left-align-title --indent-margins --styles styles.json --signatures signatures.json --blanks example-order-form.json --blank-text 'according to the Software Support Terms' order-form.cform > example-order-form.docx"
+    "build:example:docx": "commonform render -f docx --title 'Software Support Order Form' --number outline --left-align-title --indent-margins --styles styles.json --signatures signatures.json --blanks example-order-form.json --blank-text 'according to the Software Support Terms' order-form.cform > example-order-form.docx",
+    "prepare": "husky install"
   }
 }
